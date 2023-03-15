@@ -1,0 +1,125 @@
+# allow_forking: true
+# archive_url: https://api.github.com/repos/TestForSettings/TestRepo/{archive_format}{/ref}
+# archived: false
+# assignees_url: https://api.github.com/repos/TestForSettings/TestRepo/assignees{/user}
+# blobs_url: https://api.github.com/repos/TestForSettings/TestRepo/git/blobs{/sha}
+# branches_url: https://api.github.com/repos/TestForSettings/TestRepo/branches{/branch}
+# clone_url: https://github.com/TestForSettings/TestRepo.git
+# collaborators_url: https://api.github.com/repos/TestForSettings/TestRepo/collaborators{/collaborator}
+# comments_url: https://api.github.com/repos/TestForSettings/TestRepo/comments{/number}
+# commits_url: https://api.github.com/repos/TestForSettings/TestRepo/commits{/sha}
+# compare_url: https://api.github.com/repos/TestForSettings/TestRepo/compare/{base}...{head}
+# contents_url: https://api.github.com/repos/TestForSettings/TestRepo/contents/{+path}
+# contributors_url: https://api.github.com/repos/TestForSettings/TestRepo/contributors
+# created_at: "2023-03-05T18:00:09Z"
+# default_branch: main
+# deployments_url: https://api.github.com/repos/TestForSettings/TestRepo/deployments
+# description: null
+# disabled: false
+# downloads_url: https://api.github.com/repos/TestForSettings/TestRepo/downloads
+# events_url: https://api.github.com/repos/TestForSettings/TestRepo/events
+# fork: false
+# # forks: 0
+# # forks_count: 0
+# # forks_url: https://api.github.com/repos/TestForSettings/TestRepo/forks
+# # full_name: TestForSettings/TestRepo
+# # git_commits_url: https://api.github.com/repos/TestForSettings/TestRepo/git/commits{/sha}
+# # git_refs_url: https://api.github.com/repos/TestForSettings/TestRepo/git/refs{/sha}
+# # git_tags_url: https://api.github.com/repos/TestForSettings/TestRepo/git/tags{/sha}
+# # git_url: git://github.com/TestForSettings/TestRepo.git
+has_discussions: false
+has_downloads: true
+has_issues: true
+has_pages: false
+has_projects: false
+has_wiki: false
+# homepage: ""
+# hooks_url: https://api.github.com/repos/TestForSettings/TestRepo/hooks
+# html_url: https://github.com/TestForSettings/TestRepo
+# id: 609949160
+# is_template: false
+# issue_comment_url: https://api.github.com/repos/TestForSettings/TestRepo/issues/comments{/number}
+# issue_events_url: https://api.github.com/repos/TestForSettings/TestRepo/issues/events{/number}
+# issues_url: https://api.github.com/repos/TestForSettings/TestRepo/issues{/number}
+# keys_url: https://api.github.com/repos/TestForSettings/TestRepo/keys{/key_id}
+# labels_url: https://api.github.com/repos/TestForSettings/TestRepo/labels{/name}
+# language: null
+# languages_url: https://api.github.com/repos/TestForSettings/TestRepo/languages
+# license: null
+# merges_url: https://api.github.com/repos/TestForSettings/TestRepo/merges
+# milestones_url: https://api.github.com/repos/TestForSettings/TestRepo/milestones{/number}
+# mirror_url: null
+# name: TestRepo
+# network_count: 0
+# node_id: R_kgDOJFsV6A
+# notifications_url: https://api.github.com/repos/TestForSettings/TestRepo/notifications{?since,all,participating}
+# open_issues: 0
+# open_issues_count: 0
+# # organization:
+# #   avatar_url: https://avatars.githubusercontent.com/u/127047259?v=4
+# #   events_url: https://api.github.com/users/TestForSettings/events{/privacy}
+# #   followers_url: https://api.github.com/users/TestForSettings/followers
+# #   following_url: https://api.github.com/users/TestForSettings/following{/other_user}
+# #   gists_url: https://api.github.com/users/TestForSettings/gists{/gist_id}
+# #   gravatar_id: ""
+# #   html_url: https://github.com/TestForSettings
+# #   id: 127047259
+# #   login: TestForSettings
+# #   node_id: O_kgDOB5KWWw
+# #   # organizations_url: https://api.github.com/users/TestForSettings/orgs
+# #   # received_events_url: https://api.github.com/users/TestForSettings/received_events
+# #   # repos_url: https://api.github.com/users/TestForSettings/repos
+# #   site_admin: false
+# #   # starred_url: https://api.github.com/users/TestForSettings/starred{/owner}{/repo}
+# #   # subscriptions_url: https://api.github.com/users/TestForSettings/subscriptions
+# #   type: Organization
+# #   url: https://api.github.com/users/TestForSettings
+# # owner:
+# #   avatar_url: https://avatars.githubusercontent.com/u/127047259?v=4
+# #   events_url: https://api.github.com/users/TestForSettings/events{/privacy}
+# #   followers_url: https://api.github.com/users/TestForSettings/followers
+# #   following_url: https://api.github.com/users/TestForSettings/following{/other_user}
+# #   gists_url: https://api.github.com/users/TestForSettings/gists{/gist_id}
+# #   gravatar_id: ""
+# #   html_url: https://github.com/TestForSettings
+# #   id: 127047259
+# #   login: TestForSettings
+# #   node_id: O_kgDOB5KWWw
+# #   organizations_url: https://api.github.com/users/TestForSettings/orgs
+# #   received_events_url: https://api.github.com/users/TestForSettings/received_events
+# #   repos_url: https://api.github.com/users/TestForSettings/repos
+# #   site_admin: false
+# #   starred_url: https://api.github.com/users/TestForSettings/starred{/owner}{/repo}
+# #   subscriptions_url: https://api.github.com/users/TestForSettings/subscriptions
+# #   type: Organization
+# #   url: https://api.github.com/users/TestForSettings
+# permissions:
+#   admin: true
+#   maintain: true
+#   pull: true
+#   push: true
+#   triage: true
+# private: false
+# # pulls_url: https://api.github.com/repos/TestForSettings/TestRepo/pulls{/number}
+# # pushed_at: "2023-03-05T18:00:09Z"
+# # releases_url: https://api.github.com/repos/TestForSettings/TestRepo/releases{/id}
+# # size: 0
+# # ssh_url: git@github.com:TestForSettings/TestRepo.git
+# # stargazers_count: 0
+# # stargazers_url: https://api.github.com/repos/TestForSettings/TestRepo/stargazers
+# # statuses_url: https://api.github.com/repos/TestForSettings/TestRepo/statuses/{sha}
+# # subscribers_count: 0
+# # subscribers_url: https://api.github.com/repos/TestForSettings/TestRepo/subscribers
+# # subscription_url: https://api.github.com/repos/TestForSettings/TestRepo/subscription
+# # svn_url: https://github.com/TestForSettings/TestRepo
+# # tags_url: https://api.github.com/repos/TestForSettings/TestRepo/tags
+# # teams_url: https://api.github.com/repos/TestForSettings/TestRepo/teams
+# # topics:
+# #   - testing
+# # trees_url: https://api.github.com/repos/TestForSettings/TestRepo/git/trees{/sha}
+# # updated_at: "2023-03-05T18:07:29Z"
+# # url: https://api.github.com/repos/TestForSettings/TestRepo
+# visibility: public
+# # watchers: 0
+# # watchers_count: 0
+# # web_commit_signoff_required: false
